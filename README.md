@@ -59,7 +59,7 @@ Basado en los hallazgos anteriores, diseñé un Dashboard ejecutivo que permite:
 2.  Identificar geográficamente las zonas de ataque (Mapa de Chile).
 3.  Monitorear la evolución de pérdidas por Banco (Cintas).
 
-![Dashboard Final](images/07_dashboard_final.png)
+![Dashboard Final](images/07_dashboard.png)
 
 ## Estructura del Proyecto
 
@@ -68,8 +68,4 @@ Basado en los hallazgos anteriores, diseñé un Dashboard ejecutivo que permite:
 *   `/dashboard`: Archivo `.pbix` con el modelo estrella y medidas DAX.
 *   `/data`: Muestras de los datasets procesados (Fact_Transacciones y Dim_Clientes)
 
-##  Cómo reproducir
-1. Clonar el repositorio.
-2. Instalar dependencias: `pip install -r requirements.txt`
-3. Correr el script ETL: `python src/pipeline_final.py`.
-4. Abrir el archivo Power BI y actualizar origen de datos.
+
