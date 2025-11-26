@@ -47,7 +47,7 @@ Al segmentar por tipo de operación, descubrí que el fraude se concentra **excl
 Este fue el hallazgo más crítico. Identifiqué una correlación perfecta ($R^2=1$) entre el saldo disponible y el **monto defraudado**. El patrón revela que, previo al fraude, se consulta el saldo exacto para realizar un retiro total de los fondos (Puntos sobre la línea punteada).
 ![Scatter Plot](images/05_scatter.png)
 
-### 6. Impacto Financiero
+### 6. Análisis de Disparidad: Comparación de Montos Transados
 Al comparar las medianas, se evidenció que el monto defraudado es **casi 6 veces superior** al de una transacción legítima. Esto indica que el patrón de fraude se caracteriza por **operaciones de montos significativamente más altos**.
 ![Boxplot](images/06_boxplot.png)
 

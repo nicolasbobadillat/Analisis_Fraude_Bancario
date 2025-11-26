@@ -1,0 +1,201 @@
+Fecha,Año,Mes,Hora_Dia,Momento,Tipo_Operacion,amount,Estado_Fraude,isFraud,Banco,Region,Edad,Segmento_Edad,Rut,nameOrig
+2020-03-16 19:00:00,2020,Marzo,19,Noche,Pago,6806.33,Normal,0,BancoEstado,Tarapacá,64,Senior (+60),8125216-K,C369326006
+2022-08-10 13:00:00,2022,Agosto,13,Tarde,Pago,9457.1,Normal,0,BancoEstado,Biobío,71,Senior (+60),10321017-8,C362128001
+2022-10-21 10:00:00,2022,Octubre,10,Mañana,Retiro,200530.14,Normal,0,BancoEstado,Biobío,33,Adulto Joven (26-40),16839422-2,C563142887
+2022-05-21 16:00:00,2022,Mayo,16,Tarde,Pago,11358.79,Normal,0,Banco Falabella,Metropolitana,33,Adulto Joven (26-40),8169902-7,C1239184156
+2021-05-10 13:00:00,2021,Mayo,13,Tarde,Depósito,268318.77,Normal,0,Banco Falabella,Los Lagos,75,Senior (+60),12874482-4,C502654297
+2020-04-12 18:00:00,2020,Abril,18,Tarde,Depósito,317189.2,Normal,0,BancoEstado,Maule,47,Adulto (41-60),16130215-2,C1539414556
+2021-07-27 21:00:00,2021,Julio,21,Noche,Transferencia,395667.56,Normal,0,Banco de Chile,Atacama,69,Senior (+60),15971795-8,C2143199267
+2022-11-14 16:00:00,2022,Noviembre,16,Tarde,Depósito,561839.66,Normal,0,BancoEstado,Valparaíso,61,Senior (+60),22457905-8,C304862595
+2022-07-18 18:00:00,2022,Julio,18,Tarde,Retiro,286375.91,Normal,0,Banco de Chile,Metropolitana,28,Adulto Joven (26-40),9028289-7,C826760253
+2021-05-20 14:00:00,2021,Mayo,14,Tarde,Depósito,34914.04,Normal,0,Banco de Chile,O'Higgins,36,Adulto Joven (26-40),17324780-4,C1652697945
+2023-07-06 11:00:00,2023,Julio,11,Mañana,Pago,9777.75,Normal,0,BancoEstado,O'Higgins,20,Joven (18-25),6630171-5,C1347836324
+2020-06-15 20:00:00,2020,Junio,20,Noche,Retiro,123473.71,Normal,0,BancoEstado,Metropolitana,57,Adulto (41-60),18125188-6,C1815760868
+2020-10-02 14:00:00,2020,Octubre,14,Tarde,Pago,50495.78,Normal,0,BancoEstado,Los Ríos,67,Senior (+60),11143694-0,C2105422741
+2022-03-18 14:00:00,2022,Marzo,14,Tarde,Retiro,304078.86,Normal,0,BancoEstado,Coquimbo,26,Adulto Joven (26-40),14410515-1,C823734578
+2021-12-20 00:00:00,2021,Diciembre,0,Madrugada,Pago,67486.61,Normal,0,BancoEstado,Valparaíso,40,Adulto Joven (26-40),11232652-5,C39485233
+2021-08-16 21:00:00,2021,Agosto,21,Noche,Pago,2240.42,Normal,0,Banco Santander,Araucanía,72,Senior (+60),7385618-5,C1460066093
+2021-01-21 20:00:00,2021,Enero,20,Noche,Pago,3085.85,Normal,0,BancoEstado,Metropolitana,29,Adulto Joven (26-40),15826025-9,C1712267031
+2020-04-25 09:00:00,2020,Abril,9,Mañana,Depósito,116358.65,Normal,0,Banco Santander,Metropolitana,62,Senior (+60),7812470-2,C1384935829
+2020-12-19 17:00:00,2020,Diciembre,17,Tarde,Depósito,92358.13,Normal,0,Banco Falabella,Metropolitana,75,Senior (+60),14418858-6,C1969124389
+2020-02-07 17:00:00,2020,Febrero,17,Tarde,Depósito,160241.77,Normal,0,BancoEstado,Antofagasta,35,Adulto Joven (26-40),20462517-6,C1139298242
+2020-08-20 13:00:00,2020,Agosto,13,Tarde,Retiro,206699.07,Normal,0,Banco Santander,Valparaíso,53,Adulto (41-60),24763601-4,C1122125415
+2020-07-05 10:00:00,2020,Julio,10,Mañana,Pago,11881.59,Normal,0,Banco Santander,Metropolitana,35,Adulto Joven (26-40),10003921-2,C1537852719
+2023-11-12 23:00:00,2023,Noviembre,23,Noche,Pago,11990.35,Normal,0,Banco Santander,Coquimbo,39,Adulto Joven (26-40),13946123-9,C638686340
+2021-10-25 20:00:00,2021,Octubre,20,Noche,Retiro,98389.42,Normal,0,BancoEstado,Valparaíso,39,Adulto Joven (26-40),13523142-6,C1119234205
+2021-06-18 19:00:00,2021,Junio,19,Noche,Depósito,308093.23,Normal,0,BancoEstado,O'Higgins,70,Senior (+60),24449534-2,C221622289
+2020-09-23 14:00:00,2020,Septiembre,14,Tarde,Retiro,137067.77,Normal,0,Banco Santander,O'Higgins,62,Senior (+60),18785830-1,C598804066
+2022-02-18 11:00:00,2022,Febrero,11,Mañana,Retiro,45730.16,Normal,0,Banco Falabella,Metropolitana,82,Senior (+60),12602379-3,C2115060727
+2020-05-24 14:00:00,2020,Mayo,14,Tarde,Pago,25263.65,Normal,0,Itaú,Valparaíso,58,Adulto (41-60),12112506-1,C1998640039
+2021-09-04 18:00:00,2021,Septiembre,18,Tarde,Pago,15264.47,Normal,0,Banco Santander,Arica y Parinacota,61,Senior (+60),8644734-6,C341668622
+2021-12-26 12:00:00,2021,Diciembre,12,Mañana,Depósito,167248.93,Normal,0,Banco de Chile,Metropolitana,70,Senior (+60),9533419-6,C467820778
+2023-05-04 20:00:00,2023,Mayo,20,Noche,Pago,5578.43,Normal,0,Banco Falabella,Tarapacá,55,Adulto (41-60),7713228-6,C138262624
+2020-05-13 10:00:00,2020,Mayo,10,Mañana,Retiro,90108.6,Normal,0,Banco Santander,Maule,55,Adulto (41-60),17237522-9,C257657949
+2022-02-03 18:00:00,2022,Febrero,18,Tarde,Transferencia,419251.05,Normal,0,BancoEstado,Metropolitana,37,Adulto Joven (26-40),7600559-0,C1959880862
+2023-02-19 15:00:00,2023,Febrero,15,Tarde,Pago,26914.57,Normal,0,BancoEstado,Araucanía,25,Joven (18-25),14772574-8,C1977064978
+2022-03-14 13:00:00,2022,Marzo,13,Tarde,Retiro,108721.65,Normal,0,Banco Falabella,Los Ríos,57,Adulto (41-60),18827018-6,C1125435351
+2022-01-27 20:00:00,2022,Enero,20,Noche,Retiro,7671.26,Normal,0,BancoEstado,Metropolitana,46,Adulto (41-60),12600430-2,C2084103157
+2023-11-04 20:00:00,2023,Noviembre,20,Noche,Depósito,95770.49,Normal,0,Banco Santander,Metropolitana,62,Senior (+60),6892208-5,C380080530
+2021-02-18 12:00:00,2021,Febrero,12,Mañana,Pago,40.41,Normal,0,BancoEstado,Metropolitana,71,Senior (+60),18566255-K,C1660005406
+2020-02-25 20:00:00,2020,Febrero,20,Noche,Pago,9134.44,Normal,0,Banco Falabella,Metropolitana,68,Senior (+60),5369234-8,C1887427715
+2020-12-21 11:00:00,2020,Diciembre,11,Mañana,Retiro,463779.46,Normal,0,Banco Santander,O'Higgins,51,Adulto (41-60),17683198-2,C500433029
+2021-10-31 17:00:00,2021,Octubre,17,Tarde,Depósito,100395.56,Normal,0,Banco Falabella,Araucanía,21,Joven (18-25),23513906-3,C2016244807
+2022-08-02 13:00:00,2022,Agosto,13,Tarde,Depósito,83252.27,Normal,0,Itaú,Magallanes,32,Adulto Joven (26-40),11500518-5,C167421817
+2022-06-18 19:00:00,2022,Junio,19,Noche,Retiro,234888.83,Normal,0,BancoEstado,Metropolitana,53,Adulto (41-60),17305216-5,C1936838428
+2020-05-24 12:00:00,2020,Mayo,12,Mañana,Retiro,146325.03,Normal,0,Banco Santander,Ñuble,82,Senior (+60),20432536-6,C1368931647
+2021-06-03 19:00:00,2021,Junio,19,Noche,Pago,4692.17,Normal,0,Scotiabank,Biobío,83,Senior (+60),24014881-2,C208505980
+2022-01-28 18:00:00,2022,Enero,18,Tarde,Retiro,368552.85,Normal,0,Itaú,Metropolitana,33,Adulto Joven (26-40),11570543-5,C729841721
+2022-08-21 22:00:00,2022,Agosto,22,Noche,Pago,5079.55,Normal,0,Banco Bice,Metropolitana,81,Senior (+60),21486054-1,C1319291884
+2023-11-22 11:00:00,2023,Noviembre,11,Mañana,Retiro,238537.14,Normal,0,BCI,Metropolitana,69,Senior (+60),6791321-2,C1705203203
+2021-07-09 06:00:00,2021,Julio,6,Madrugada,Pago,22206.33,Normal,0,Scotiabank,Metropolitana,80,Senior (+60),15132027-4,C891193010
+2023-10-28 12:00:00,2023,Octubre,12,Mañana,Pago,32758.63,Normal,0,BancoEstado,Metropolitana,27,Adulto Joven (26-40),16439762-0,C1664705155
+2023-06-09 17:00:00,2023,Junio,17,Tarde,Pago,9504.17,Normal,0,Banco Santander,Metropolitana,81,Senior (+60),22117325-1,C1820447892
+2022-01-14 17:00:00,2022,Enero,17,Tarde,Retiro,140042.6,Normal,0,Banco Bice,Los Ríos,19,Joven (18-25),22696186-8,C154978100
+2020-11-21 17:00:00,2020,Noviembre,17,Tarde,Depósito,85185.86,Normal,0,Itaú,Arica y Parinacota,41,Adulto (41-60),10629119-0,C1903427339
+2023-01-30 12:00:00,2023,Enero,12,Mañana,Retiro,297569.76,Normal,0,Itaú,Maule,40,Adulto Joven (26-40),20721780-4,C780665076
+2023-04-28 10:00:00,2023,Abril,10,Mañana,Retiro,260823.68,Normal,0,BCI,Metropolitana,25,Joven (18-25),6876077-K,C1899328012
+2021-06-18 19:00:00,2021,Junio,19,Noche,Retiro,5209.46,Normal,0,Banco Santander,Ñuble,69,Senior (+60),21471917-4,C345381938
+2023-08-12 22:00:00,2023,Agosto,22,Noche,Depósito,204212.91,Normal,0,Banco Santander,Metropolitana,38,Adulto Joven (26-40),17429240-0,C1688301673
+2021-10-23 11:00:00,2021,Octubre,11,Mañana,Retiro,66341.34,Normal,0,Banco Santander,Valparaíso,54,Adulto (41-60),13325844-7,C1298028160
+2020-04-24 23:00:00,2020,Abril,23,Noche,Pago,3014.3,Normal,0,BancoEstado,Metropolitana,41,Adulto (41-60),18517403-4,C1845037236
+2023-02-25 21:00:00,2023,Febrero,21,Noche,Depósito,92276.16,Normal,0,Banco Falabella,Antofagasta,50,Adulto (41-60),24574074-2,C1666005904
+2021-03-13 18:00:00,2021,Marzo,18,Tarde,Pago,2793.67,Normal,0,Banco Santander,Metropolitana,76,Senior (+60),11495749-6,C1699135992
+2020-12-29 22:00:00,2020,Diciembre,22,Noche,Pago,5686.27,Normal,0,Banco Santander,Aysén,48,Adulto (41-60),8414019-K,C19790957
+2020-10-08 23:00:00,2020,Octubre,23,Noche,Pago,1710.31,Normal,0,BancoEstado,Metropolitana,72,Senior (+60),8030825-8,C112723857
+2021-11-21 13:00:00,2021,Noviembre,13,Tarde,Pago,2256.46,Normal,0,BCI,Valparaíso,61,Senior (+60),18310286-8,C419942872
+2022-04-02 19:00:00,2022,Abril,19,Noche,Pago,2459.37,Normal,0,Banco Falabella,Valparaíso,47,Adulto (41-60),6734085-2,C1651575430
+2020-08-13 10:00:00,2020,Agosto,10,Mañana,Retiro,104412.05,Normal,0,Banco Falabella,Valparaíso,83,Senior (+60),21574908-4,C1984896389
+2023-12-06 09:00:00,2023,Diciembre,9,Mañana,Transferencia,18093.06,Normal,0,BCI,Ñuble,38,Adulto Joven (26-40),22620239-0,C1855615766
+2022-05-02 19:00:00,2022,Mayo,19,Noche,Pago,31516.91,Normal,0,Itaú,Coquimbo,84,Senior (+60),16338948-K,C1947834541
+2021-03-16 10:00:00,2021,Marzo,10,Mañana,Pago,3505.2,Normal,0,Scotiabank,Metropolitana,80,Senior (+60),13437524-6,C1206624776
+2020-01-24 20:00:00,2020,Enero,20,Noche,Retiro,14579.51,Normal,0,Banco Falabella,Coquimbo,44,Adulto (41-60),10825928-2,C1072172495
+2020-02-19 12:00:00,2020,Febrero,12,Mañana,Transferencia,2299972.75,Normal,0,Banco Santander,Metropolitana,58,Adulto (41-60),19884238-9,C1770314176
+2021-02-22 12:00:00,2021,Febrero,12,Mañana,Retiro,16275.0,Normal,0,Banco Bice,Los Lagos,48,Adulto (41-60),14483771-8,C115004201
+2023-12-03 18:00:00,2023,Diciembre,18,Tarde,Retiro,339655.38,Normal,0,Scotiabank,Tarapacá,26,Adulto Joven (26-40),9918785-5,C555610641
+2020-11-08 19:00:00,2020,Noviembre,19,Noche,Transferencia,652493.6,Normal,0,Banco Santander,O'Higgins,81,Senior (+60),5156134-7,C1188129769
+2023-07-12 20:00:00,2023,Julio,20,Noche,Retiro,110326.13,Normal,0,Itaú,Biobío,73,Senior (+60),5085132-4,C1254971027
+2023-10-28 20:00:00,2023,Octubre,20,Noche,Retiro,243235.11,Normal,0,BancoEstado,Araucanía,64,Senior (+60),24380084-4,C1267855984
+2021-08-19 15:00:00,2021,Agosto,15,Tarde,Retiro,127894.45,Normal,0,Scotiabank,Maule,24,Joven (18-25),9827421-6,C369687205
+2022-12-11 13:00:00,2022,Diciembre,13,Tarde,Pago,15416.37,Normal,0,Banco de Chile,Metropolitana,23,Joven (18-25),6855586-3,C1343506685
+2020-05-16 19:00:00,2020,Mayo,19,Noche,Depósito,248303.38,Normal,0,BancoEstado,Metropolitana,52,Adulto (41-60),12724496-8,C637734482
+2020-09-17 09:00:00,2020,Septiembre,9,Mañana,Retiro,434451.69,Normal,0,Banco de Chile,Coquimbo,20,Joven (18-25),22164816-3,C901028246
+2021-08-18 19:00:00,2021,Agosto,19,Noche,Depósito,353575.91,Normal,0,Banco Falabella,Biobío,44,Adulto (41-60),10720445-8,C1710866761
+2022-04-27 20:00:00,2022,Abril,20,Noche,Pago,263.37,Normal,0,BancoEstado,Metropolitana,43,Adulto (41-60),20101261-5,C1414720484
+2022-06-06 20:00:00,2022,Junio,20,Noche,Retiro,113234.35,Normal,0,Banco Falabella,Metropolitana,79,Senior (+60),22409901-6,C226811071
+2023-09-21 18:00:00,2023,Septiembre,18,Tarde,Pago,12974.37,Normal,0,BancoEstado,Valparaíso,28,Adulto Joven (26-40),8961748-7,C1913612332
+2020-12-11 17:00:00,2020,Diciembre,17,Tarde,Retiro,205773.9,Normal,0,Banco Falabella,Coquimbo,29,Adulto Joven (26-40),11151638-4,C1555022058
+2023-11-01 21:00:00,2023,Noviembre,21,Noche,Retiro,120912.79,Normal,0,Banco de Chile,Atacama,58,Adulto (41-60),11092996-K,C1992398215
+2023-08-13 16:00:00,2023,Agosto,16,Tarde,Retiro,252168.52,Normal,0,BCI,Metropolitana,35,Adulto Joven (26-40),20661242-9,C806156353
+2023-11-13 09:00:00,2023,Noviembre,9,Mañana,Transferencia,484638.39,Normal,0,BCI,Metropolitana,40,Adulto Joven (26-40),12374978-6,C245272845
+2020-01-09 19:00:00,2020,Enero,19,Noche,Pago,8061.13,Normal,0,Banco de Chile,Biobío,45,Adulto (41-60),7801327-8,C1037410094
+2022-04-25 23:00:00,2022,Abril,23,Noche,Depósito,205438.85,Normal,0,Scotiabank,Metropolitana,28,Adulto Joven (26-40),7781395-6,C1489788539
+2022-03-06 11:00:00,2022,Marzo,11,Mañana,Pago,33497.59,Normal,0,BancoEstado,Metropolitana,77,Senior (+60),15646828-1,C156714649
+2022-05-17 21:00:00,2022,Mayo,21,Noche,Depósito,89569.99,Normal,0,Banco de Chile,Metropolitana,43,Adulto (41-60),11735680-8,C2046068686
+2022-07-24 13:00:00,2022,Julio,13,Tarde,Depósito,277994.37,Normal,0,Banco Santander,Valparaíso,84,Senior (+60),19632091-5,C390035276
+2021-09-19 09:00:00,2021,Septiembre,9,Mañana,Retiro,6739.47,Normal,0,Banco de Chile,Valparaíso,72,Senior (+60),16165180-K,C1451772378
+2021-04-07 20:00:00,2021,Abril,20,Noche,Depósito,102965.44,Normal,0,BCI,Antofagasta,39,Adulto Joven (26-40),11430048-8,C1443861586
+2021-11-01 19:00:00,2021,Noviembre,19,Noche,Pago,18488.14,Normal,0,Banco de Chile,Maule,25,Joven (18-25),8681158-1,C212734095
+2020-12-30 18:00:00,2020,Diciembre,18,Tarde,Pago,17893.98,Normal,0,Banco Santander,Valparaíso,22,Joven (18-25),10313660-K,C1360568925
+2020-03-21 18:00:00,2020,Marzo,18,Tarde,Pago,6126.03,Normal,0,Banco Falabella,Magallanes,68,Senior (+60),13700763-4,C442163229
+2021-12-14 19:00:00,2021,Diciembre,19,Noche,Pago,22573.65,Normal,0,BCI,O'Higgins,79,Senior (+60),19519134-7,C516944193
+2023-05-24 17:00:00,2023,Mayo,17,Tarde,Pago,6093.02,Normal,0,Banco Santander,Maule,44,Adulto (41-60),22181800-1,C1920171439
+2020-05-17 12:00:00,2020,Mayo,12,Mañana,Retiro,160223.33,Normal,0,Banco Falabella,Arica y Parinacota,23,Joven (18-25),22109932-2,C876624236
+2021-04-21 18:00:00,2021,Abril,18,Tarde,Pago,11734.54,Normal,0,BancoEstado,Metropolitana,31,Adulto Joven (26-40),10206556-1,C1055969121
+2023-06-03 17:00:00,2023,Junio,17,Tarde,Depósito,154772.29,Normal,0,Banco de Chile,Los Lagos,67,Senior (+60),14805275-4,C1557856436
+2021-10-14 18:00:00,2021,Octubre,18,Tarde,Retiro,82262.35,Normal,0,BCI,Biobío,51,Adulto (41-60),14318918-4,C1208890136
+2020-07-21 10:00:00,2020,Julio,10,Mañana,Retiro,302180.77,Normal,0,Banco Falabella,Araucanía,56,Adulto (41-60),15885308-9,C1743939655
+2021-06-08 18:00:00,2021,Junio,18,Tarde,Pago,7870.24,Normal,0,BancoEstado,Metropolitana,28,Adulto Joven (26-40),22954451-5,C1417056232
+2020-05-13 18:00:00,2020,Mayo,18,Tarde,Retiro,1285.35,Normal,0,Scotiabank,Valparaíso,18,Joven (18-25),11574514-5,C979672
+2022-08-06 18:00:00,2022,Agosto,18,Tarde,Pago,9662.99,Normal,0,BancoEstado,Araucanía,52,Adulto (41-60),10509375-8,C902244801
+2020-12-29 14:00:00,2020,Diciembre,14,Tarde,Depósito,95306.89,Normal,0,Banco Bice,Atacama,63,Senior (+60),24741797-2,C174292675
+2020-03-02 11:00:00,2020,Marzo,11,Mañana,Transferencia,285956.65,Normal,0,BancoEstado,Metropolitana,66,Senior (+60),10687515-4,C1969286475
+2022-02-19 15:00:00,2022,Febrero,15,Tarde,Retiro,75819.83,Normal,0,Banco de Chile,Biobío,81,Senior (+60),6924485-1,C540623270
+2021-10-15 17:00:00,2021,Octubre,17,Tarde,Pago,811.73,Normal,0,Banco Santander,Metropolitana,33,Adulto Joven (26-40),22254183-9,C1452649014
+2020-08-18 09:00:00,2020,Agosto,9,Mañana,Retiro,21894.07,Normal,0,Banco Santander,Maule,68,Senior (+60),6269668-9,C1362656892
+2021-07-18 20:00:00,2021,Julio,20,Noche,Retiro,106224.48,Normal,0,Banco Santander,Metropolitana,58,Adulto (41-60),13471332-7,C2131755811
+2023-08-25 12:00:00,2023,Agosto,12,Mañana,Depósito,293972.72,Normal,0,BancoEstado,Los Lagos,57,Adulto (41-60),17795936-K,C1530656123
+2023-06-13 20:00:00,2023,Junio,20,Noche,Pago,1415.57,Normal,0,Banco Falabella,Coquimbo,56,Adulto (41-60),13462653-4,C1458672360
+2023-05-01 13:00:00,2023,Mayo,13,Tarde,Pago,26236.35,Normal,0,Itaú,Metropolitana,51,Adulto (41-60),24693928-1,C212750623
+2022-09-07 19:00:00,2022,Septiembre,19,Noche,Transferencia,184387.11,Normal,0,BCI,Metropolitana,42,Adulto (41-60),5196357-8,C422124062
+2021-10-20 18:00:00,2021,Octubre,18,Tarde,Transferencia,772129.77,Normal,0,Banco Santander,O'Higgins,78,Senior (+60),21913407-K,C2032151927
+2022-11-10 13:00:00,2022,Noviembre,13,Tarde,Pago,1725.53,Normal,0,BancoEstado,O'Higgins,76,Senior (+60),22231360-8,C1786325823
+2022-11-24 23:00:00,2022,Noviembre,23,Noche,Depósito,405216.59,Normal,0,Itaú,Metropolitana,51,Adulto (41-60),8421272-1,C907473062
+2020-11-08 12:00:00,2020,Noviembre,12,Mañana,Retiro,165808.19,Normal,0,Itaú,O'Higgins,22,Joven (18-25),11773757-7,C1979507399
+2020-09-27 16:00:00,2020,Septiembre,16,Tarde,Pago,1134.62,Normal,0,Itaú,Metropolitana,55,Adulto (41-60),11745665-2,C1794573959
+2020-07-27 20:00:00,2020,Julio,20,Noche,Depósito,206190.49,Normal,0,Banco de Chile,Araucanía,62,Senior (+60),18524393-2,C1812210
+2020-08-04 16:00:00,2020,Agosto,16,Tarde,Retiro,17309.09,Normal,0,Itaú,Metropolitana,76,Senior (+60),15440962-4,C86680501
+2021-05-16 20:00:00,2021,Mayo,20,Noche,Retiro,47378.13,Normal,0,Banco Bice,Metropolitana,62,Senior (+60),19726776-2,C1679006419
+2023-06-10 14:00:00,2023,Junio,14,Tarde,Retiro,50882.89,Normal,0,BancoEstado,Metropolitana,41,Adulto (41-60),14691974-4,C1353749858
+2021-03-01 15:00:00,2021,Marzo,15,Tarde,Pago,10750.7,Normal,0,Banco Santander,Metropolitana,51,Adulto (41-60),14931763-0,C223901729
+2023-04-08 14:00:00,2023,Abril,14,Tarde,Retiro,147990.65,Normal,0,Banco de Chile,Biobío,33,Adulto Joven (26-40),15853501-8,C1389569212
+2023-09-08 18:00:00,2023,Septiembre,18,Tarde,Transferencia,396044.3,Normal,0,BancoEstado,Los Ríos,27,Adulto Joven (26-40),12149529-K,C2104685948
+2021-09-19 19:00:00,2021,Septiembre,19,Noche,Retiro,24170.56,Normal,0,Banco de Chile,Metropolitana,45,Adulto (41-60),20372534-3,C1532245486
+2020-05-15 23:00:00,2020,Mayo,23,Noche,Pago,10160.4,Normal,0,BancoEstado,Metropolitana,20,Joven (18-25),24970149-2,C1406488444
+2020-01-22 18:00:00,2020,Enero,18,Tarde,Retiro,76389.14,Normal,0,Banco Santander,Atacama,74,Senior (+60),23308760-2,C1632889900
+2022-06-09 14:00:00,2022,Junio,14,Tarde,Depósito,77347.49,Normal,0,BancoEstado,Metropolitana,81,Senior (+60),22760663-7,C66279332
+2020-01-27 18:00:00,2020,Enero,18,Tarde,Pago,4854.71,Normal,0,BCI,O'Higgins,67,Senior (+60),21767458-6,C88264719
+2021-02-18 12:00:00,2021,Febrero,12,Mañana,Depósito,118657.95,Normal,0,BancoEstado,Biobío,34,Adulto Joven (26-40),13244977-1,C606352272
+2021-10-30 15:00:00,2021,Octubre,15,Tarde,Depósito,211764.89,Normal,0,BCI,Tarapacá,34,Adulto Joven (26-40),7705107-9,C1928435745
+2021-04-01 13:00:00,2021,Abril,13,Tarde,Retiro,50863.97,Normal,0,Banco de Chile,Biobío,45,Adulto (41-60),18030154-2,C771177119
+2021-05-06 17:00:00,2021,Mayo,17,Tarde,Retiro,35427.02,Normal,0,BancoEstado,Coquimbo,33,Adulto Joven (26-40),5450344-7,C146909369
+2020-02-24 20:00:00,2020,Febrero,20,Noche,Depósito,89408.65,Normal,0,Banco Falabella,Maule,81,Senior (+60),6050859-6,C1143571638
+2021-06-08 15:00:00,2021,Junio,15,Tarde,Pago,9152.45,Normal,0,BancoEstado,Metropolitana,52,Adulto (41-60),10809981-9,C683434698
+2020-02-10 21:00:00,2020,Febrero,21,Noche,Pago,36505.77,Normal,0,Banco Falabella,Araucanía,70,Senior (+60),5916252-3,C1121105126
+2021-01-28 17:00:00,2021,Enero,17,Tarde,Retiro,221428.56,Normal,0,Banco Santander,Metropolitana,80,Senior (+60),10176218-8,C1697987173
+2023-10-15 17:00:00,2023,Octubre,17,Tarde,Transferencia,737712.17,Normal,0,Banco Santander,Biobío,44,Adulto (41-60),21457238-3,C1711262852
+2022-02-15 10:00:00,2022,Febrero,10,Mañana,Retiro,139909.52,Normal,0,Banco Falabella,Valparaíso,30,Adulto Joven (26-40),22327871-8,C1742499067
+2020-10-01 11:00:00,2020,Octubre,11,Mañana,Retiro,234097.98,Normal,0,Banco de Chile,Metropolitana,63,Senior (+60),16586431-K,C63266559
+2023-06-24 20:00:00,2023,Junio,20,Noche,Pago,11039.89,Normal,0,BancoEstado,Metropolitana,26,Adulto Joven (26-40),15969519-0,C387872690
+2020-07-27 21:00:00,2020,Julio,21,Noche,Retiro,137559.65,Normal,0,Banco Santander,Tarapacá,44,Adulto (41-60),20123095-K,C831500351
+2023-06-08 20:00:00,2023,Junio,20,Noche,Pago,4284.22,Normal,0,BancoEstado,Metropolitana,41,Adulto (41-60),21680794-7,C867710360
+2022-09-04 11:00:00,2022,Septiembre,11,Mañana,Pago,9197.94,Normal,0,Banco Falabella,Antofagasta,44,Adulto (41-60),9044800-0,C1968364653
+2023-04-25 09:00:00,2023,Abril,9,Mañana,Pago,5542.92,Normal,0,Banco Santander,Metropolitana,57,Adulto (41-60),15424325-3,C595472046
+2022-02-14 14:00:00,2022,Febrero,14,Tarde,Transferencia,199516.7,Normal,0,Banco Santander,Metropolitana,69,Senior (+60),12208303-5,C669123408
+2021-07-24 20:00:00,2021,Julio,20,Noche,Retiro,166306.07,Normal,0,BancoEstado,Coquimbo,84,Senior (+60),23759940-2,C1874183412
+2023-11-14 09:00:00,2023,Noviembre,9,Mañana,Retiro,324483.73,Normal,0,BancoEstado,Valparaíso,40,Adulto Joven (26-40),16602916-6,C874955750
+2021-09-19 09:00:00,2021,Septiembre,9,Mañana,Retiro,191513.69,Normal,0,BancoEstado,Metropolitana,72,Senior (+60),22354041-K,C1434563725
+2020-10-18 15:00:00,2020,Octubre,15,Tarde,Pago,5880.99,Normal,0,Banco Santander,Metropolitana,57,Adulto (41-60),15703344-K,C1065229573
+2020-02-21 16:00:00,2020,Febrero,16,Tarde,Transferencia,434122.68,Normal,0,BancoEstado,Metropolitana,48,Adulto (41-60),20194360-7,C316511253
+2021-12-29 21:00:00,2021,Diciembre,21,Noche,Retiro,244398.39,Normal,0,BancoEstado,Metropolitana,57,Adulto (41-60),19113003-K,C654644953
+2023-03-26 18:00:00,2023,Marzo,18,Tarde,Pago,17629.72,Normal,0,Banco Santander,Aysén,19,Joven (18-25),9714021-3,C645802775
+2023-11-24 19:00:00,2023,Noviembre,19,Noche,Retiro,9544.04,Normal,0,BCI,Antofagasta,55,Adulto (41-60),21304243-8,C1273099372
+2020-09-30 12:00:00,2020,Septiembre,12,Mañana,Transferencia,258429.37,Normal,0,BCI,Metropolitana,51,Adulto (41-60),19113248-0,C579856110
+2020-01-28 19:00:00,2020,Enero,19,Noche,Retiro,140964.65,Normal,0,Banco Santander,Valparaíso,18,Joven (18-25),6401660-5,C25612776
+2021-09-20 14:00:00,2021,Septiembre,14,Tarde,Retiro,140339.44,Normal,0,Banco Bice,Valparaíso,71,Senior (+60),22273399-K,C771687336
+2020-03-27 12:00:00,2020,Marzo,12,Mañana,Pago,44672.75,Normal,0,Banco Falabella,Antofagasta,64,Senior (+60),13712170-0,C1114883800
+2023-03-16 17:00:00,2023,Marzo,17,Tarde,Pago,17562.96,Normal,0,BCI,Magallanes,71,Senior (+60),16497519-4,C411246229
+2023-07-05 17:00:00,2023,Julio,17,Tarde,Pago,7645.21,Normal,0,Banco Santander,Araucanía,26,Adulto Joven (26-40),23482959-K,C1709812867
+2022-10-13 15:00:00,2022,Octubre,15,Tarde,Pago,7123.64,Normal,0,BancoEstado,Valparaíso,72,Senior (+60),21868105-0,C1723768296
+2021-02-17 21:00:00,2021,Febrero,21,Noche,Depósito,105729.42,Normal,0,BancoEstado,Metropolitana,69,Senior (+60),6027909-K,C229458324
+2023-06-25 21:00:00,2023,Junio,21,Noche,Pago,22087.41,Normal,0,Banco de Chile,Maule,46,Adulto (41-60),19454477-9,C857949522
+2022-12-09 17:00:00,2022,Diciembre,17,Tarde,Retiro,101775.94,Normal,0,BancoEstado,Los Lagos,46,Adulto (41-60),14716639-0,C1842898004
+2020-07-03 10:00:00,2020,Julio,10,Mañana,Transferencia,3552998.14,Normal,0,Banco de Chile,Metropolitana,75,Senior (+60),5517637-1,C596700568
+2022-04-21 10:00:00,2022,Abril,10,Mañana,Depósito,4286.26,Normal,0,Banco Falabella,Valparaíso,65,Senior (+60),5886412-7,C1477823437
+2021-09-18 17:00:00,2021,Septiembre,17,Tarde,Retiro,6050.84,Normal,0,BancoEstado,Metropolitana,59,Adulto (41-60),17452487-7,C1255859988
+2022-11-21 19:00:00,2022,Noviembre,19,Noche,Pago,6636.11,Normal,0,BancoEstado,Metropolitana,19,Joven (18-25),6176685-7,C1664819544
+2022-01-23 21:00:00,2022,Enero,21,Noche,Depósito,51832.81,Normal,0,Banco de Chile,Metropolitana,45,Adulto (41-60),6855628-3,C1109728937
+2021-08-26 14:00:00,2021,Agosto,14,Tarde,Pago,3288.85,Normal,0,BancoEstado,Biobío,54,Adulto (41-60),14479123-0,C106771363
+2020-01-01 13:00:00,2020,Enero,13,Tarde,Retiro,109508.06,Normal,0,Banco de Chile,Metropolitana,59,Adulto (41-60),14883163-K,C1534885349
+2022-06-16 23:00:00,2022,Junio,23,Noche,Pago,4276.85,Normal,0,Banco Falabella,Metropolitana,39,Adulto Joven (26-40),24253488-0,C1597719664
+2020-10-15 13:00:00,2020,Octubre,13,Tarde,Retiro,387055.29,Normal,0,Banco Bice,Metropolitana,51,Adulto (41-60),16791932-9,C160165186
+2020-08-10 18:00:00,2020,Agosto,18,Tarde,Retiro,146980.0,Normal,0,Banco Santander,Metropolitana,44,Adulto (41-60),17893857-K,C930170317
+2022-06-20 20:00:00,2022,Junio,20,Noche,Retiro,54685.52,Normal,0,BancoEstado,Metropolitana,77,Senior (+60),15225479-0,C765976826
+2022-04-11 14:00:00,2022,Abril,14,Tarde,Pago,2160.53,Normal,0,Banco Falabella,Metropolitana,62,Senior (+60),13836876-3,C695027917
+2023-12-01 19:00:00,2023,Diciembre,19,Noche,Depósito,201283.32,Normal,0,BancoEstado,Tarapacá,60,Adulto (41-60),16696335-3,C1025073541
+2020-01-02 14:00:00,2020,Enero,14,Tarde,Retiro,172342.82,Normal,0,BancoEstado,Metropolitana,32,Adulto Joven (26-40),18199036-K,C1048044921
+2020-12-22 17:00:00,2020,Diciembre,17,Tarde,Retiro,50081.32,Normal,0,Banco de Chile,Metropolitana,55,Adulto (41-60),13702734-8,C2090226100
+2020-09-26 18:00:00,2020,Septiembre,18,Tarde,Retiro,64424.29,Normal,0,BancoEstado,Metropolitana,72,Senior (+60),19690352-1,C1743169989
+2023-10-20 12:00:00,2023,Octubre,12,Mañana,Depósito,144361.12,Normal,0,Itaú,Biobío,71,Senior (+60),19941449-6,C41926767
+2022-03-09 13:00:00,2022,Marzo,13,Tarde,Retiro,43997.09,Normal,0,BancoEstado,O'Higgins,82,Senior (+60),5774991-7,C1385751912
+2022-11-23 17:00:00,2022,Noviembre,17,Tarde,Depósito,342871.09,Normal,0,BancoEstado,O'Higgins,40,Adulto Joven (26-40),17475302-0,C1331625543
+2020-11-13 11:00:00,2020,Noviembre,11,Mañana,Transferencia,141289.72,Normal,0,BCI,Maule,78,Senior (+60),10817432-0,C16721264
+2023-05-12 18:00:00,2023,Mayo,18,Tarde,Depósito,100393.2,Normal,0,Banco Santander,Coquimbo,64,Senior (+60),5742966-6,C467448997
+2023-10-22 14:00:00,2023,Octubre,14,Tarde,Retiro,543953.46,Normal,0,Banco de Chile,Metropolitana,37,Adulto Joven (26-40),11531839-9,C1838258748
+2021-05-21 10:00:00,2021,Mayo,10,Mañana,Retiro,225083.62,Normal,0,Banco de Chile,Metropolitana,28,Adulto Joven (26-40),12402337-4,C1611522921
+2023-09-25 22:00:00,2023,Septiembre,22,Noche,Pago,1389.67,Normal,0,Banco Santander,Maule,38,Adulto Joven (26-40),11644044-9,C1506784805
+2020-12-23 17:00:00,2020,Diciembre,17,Tarde,Retiro,281652.0,Normal,0,BancoEstado,Coquimbo,67,Senior (+60),13554732-3,C2011322743
+2020-10-22 16:00:00,2020,Octubre,16,Tarde,Retiro,375898.97,Normal,0,BancoEstado,Metropolitana,76,Senior (+60),21813159-8,C1473399065
+2022-07-04 11:00:00,2022,Julio,11,Mañana,Retiro,299649.99,Normal,0,Banco Santander,Ñuble,39,Adulto Joven (26-40),19045067-9,C517319175
+2020-08-06 14:00:00,2020,Agosto,14,Tarde,Pago,12213.12,Normal,0,BancoEstado,Biobío,33,Adulto Joven (26-40),8280856-9,C2061908609
+2023-02-14 17:00:00,2023,Febrero,17,Tarde,Retiro,151419.17,Normal,0,Banco Falabella,Metropolitana,31,Adulto Joven (26-40),18360074-4,C73490766
+2020-04-23 15:00:00,2020,Abril,15,Tarde,Depósito,105197.3,Normal,0,BancoEstado,Coquimbo,19,Joven (18-25),14599125-2,C11972167
