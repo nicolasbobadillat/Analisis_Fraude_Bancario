@@ -1,6 +1,7 @@
 # Analisis Fraude Bancario
 
 **Rol:** Analista de Datos
+
 **Herramientas:** Python (Pandas, Seaborn, MatplotLib), SQL, Power BI, DAX.
 
 ## Origen y Arquitectura de Datos
