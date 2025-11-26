@@ -61,11 +61,5 @@ Basado en los hallazgos anteriores, diseñé un Dashboard ejecutivo que permite:
 
 ![Dashboard Final](images/07_dashboard.png)
 
-## Estructura del Proyecto
-
-*   `/src`: Scripts de Python para la generación de datos demográficos (Faker) y el proceso ETL.
-*   `/notebooks`: Jupyter Notebook con el análisis estadístico y visualizaciones avanzadas.
-*   `/dashboard`: Archivo `.pbix` con el modelo estrella y medidas DAX.
-*   `/data`: Muestras de los datasets procesados (Fact_Transacciones y Dim_Clientes)
 
 
